@@ -14,14 +14,15 @@ public class PlayerController : MonoBehaviour
 	// Update is called once per frame
 	void Update () 
 	{
-		float movespeed = 0.007f;
+		float movespeed = 0.01f;
 		transform.position = new Vector3(transform.position.x + movespeed, transform.position.y);
 		transform.Translate(movespeed, 0, 0);
-
-		if (Input.GetKeyDown(KeyCode.Space) && isFalling == false)
+		
+		if (Input.GetKeyDown(KeyCode.Space) && isFalling == false || Input.touchCount > 0 && isFalling == false)
 		{
 			Debug.Log("Jump!");
-			rigidbody2D.AddForce(new Vector2(0f, 250f));
+			rigidbody2D.AddForce(new Vector2(15f, 250f));
+
 			isFalling = true;
 		}
 	}
