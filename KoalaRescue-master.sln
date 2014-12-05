@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DE96A266-2D53-24B4-56A4-10688485F10F}") = "KoalaRescue-master", "Assembly-CSharp.csproj", "{1AC48D0C-CE03-879A-EC8F-0F877C18DDBF}"
+EndProject
+Project("{DE96A266-2D53-24B4-56A4-10688485F10F}") = "KoalaRescue-master", "Assembly-UnityScript.unityproj", "{3736034B-592C-CA30-A781-294DD4CFCFCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AC48D0C-CE03-879A-EC8F-0F877C18DDBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC48D0C-CE03-879A-EC8F-0F877C18DDBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC48D0C-CE03-879A-EC8F-0F877C18DDBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC48D0C-CE03-879A-EC8F-0F877C18DDBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3736034B-592C-CA30-A781-294DD4CFCFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3736034B-592C-CA30-A781-294DD4CFCFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3736034B-592C-CA30-A781-294DD4CFCFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3736034B-592C-CA30-A781-294DD4CFCFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+					GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal

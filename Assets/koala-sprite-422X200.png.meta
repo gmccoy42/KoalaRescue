@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 7a32ce679054ae6449ca19e8ece33847
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: koala-sprite-422X200_0
+    21300002: koala-sprite-422X200_1
+    21300004: koala-sprite-422X200_2
+    21300006: koala-sprite-422X200_3
+    21300008: koala-sprite-422X200_4
+    21300010: koala-sprite-422X200_5
+    21300012: koala-sprite-422X200_6
+    21300014: koala-sprite-422X200_7
+    21300016: koala-sprite-422X200_8
+    21300018: koala-sprite-422X200_9
+    21300020: koala-sprite-422X200_10
+    21300022: koala-sprite-422X200_11
+    21300024: koala-sprite-422X200_12
+    21300026: koala-sprite-422X200_13
+    21300028: koala-sprite-422X200_14
+    21300030: koala-sprite-422X200_15
+    21300032: koala-sprite-422X200_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: koala-sprite-422X200_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 132
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: koala-sprite-422X200_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 132
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: koala-sprite-422X200_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 133
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: koala-sprite-422X200_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 133
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: koala-sprite-422X200_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 132
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: koala-sprite-422X200_5
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 132
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: koala-sprite-422X200_6
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 132
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: koala-sprite-422X200_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 67
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: koala-sprite-422X200_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 67
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: koala-sprite-422X200_9
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 67
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: koala-sprite-422X200_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 68
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: koala-sprite-422X200_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 67
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: koala-sprite-422X200_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 67
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: koala-sprite-422X200_13
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 67
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: koala-sprite-422X200_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 67
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: koala-sprite-422X200_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: koala-sprite-422X200_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
